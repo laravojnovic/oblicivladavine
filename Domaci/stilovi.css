@@ -1,0 +1,14 @@
+h1{
+    color:rgba(33, 156, 49, 0.671);
+    text-align: center;
+}
+h2{
+    color:rgb(75, 190, 87);
+}
+body{
+    background-color: rgb(200, 211, 135);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    border: rgb(76, 56, 189) solid;
+}

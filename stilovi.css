@@ -1,0 +1,17 @@
+h1{
+    color:black;
+    text-align: center;
+}
+h2{
+    color:rgb(75, 190, 87);
+}
+body{
+    background-color: rgb(200, 211, 135);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    border: rgb(76, 56, 189) solid;
+}
+table,td,th{
+    border:2px solid rgb(35, 172, 35)
+}
